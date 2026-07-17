@@ -1,0 +1,5 @@
+NumPy2.4.3
+Pandas3.0.1
+Streamlit1.57.0
+Scikit-learn1.8.0
+XGBoost3.3.0
